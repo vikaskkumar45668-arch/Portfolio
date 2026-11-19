@@ -16,6 +16,10 @@ npm run build
 npm run preview
 ```
 
+## Deploy to GitHub Pages
+
+The GitHub Actions workflow builds and deploys the site when changes are pushed to `main`. In the repository settings, set **Pages → Build and deployment → Source** to **GitHub Actions**. The published site will be available at `https://vikaskkumar45668-arch.github.io/Portfolio/` after the first successful deployment.
+
 ## Portfolio sections
 
 - About and technical skills
